@@ -1,0 +1,1 @@
+A simple app made with Spring Boot to display "app is started" on a web page
